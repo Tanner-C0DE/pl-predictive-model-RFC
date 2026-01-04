@@ -18,6 +18,7 @@ Data Science Highlights:
 
 Visualizing the Brain:
 The project generates a feature importance graph to show which metrics the model "valued" most during training.
+![Feature Importance Graph](feature_importance.png)
 
 Tech Stack:
 Python
@@ -29,3 +30,7 @@ Pandas (Data manipulation)
 Matplotlib (Visualization)
 
 Joblib (Model Serialization)
+
+
+
+Data was collected from https://www.football-data.co.uk/englandm.php
